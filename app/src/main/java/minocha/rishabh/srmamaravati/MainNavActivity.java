@@ -28,7 +28,7 @@ public class MainNavActivity extends AppCompatActivity
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(MainNavActivity.this, "The button is clicked", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainNavActivity.this, "The button is clicked NOw", Toast.LENGTH_SHORT).show();
             }
         });
 
