@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "600236412136",
+    "firebase_url": "https://srm-amaravati.firebaseio.com",
+    "project_id": "srm-amaravati",
+    "storage_bucket": "srm-amaravati.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600236412136:android:61a4dca0bdd0138a",
+        "android_client_info": {
+          "package_name": "minocha.rishabh.srmamaravati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600236412136-phf0pkbhpm57m67ijbbjkmq28k19vgp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZw29ZGejRLgxP_al9Nw80d0P13m1rZVs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
